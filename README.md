@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/circleci/AREP_LAB1.svg?style=svg)](https://circleci.com/gh/dracken1/AREP_LAB2/tree/master)
 
-# AREP 4 AREP
+# AREP LAB 4
   
   
 # Getting Started
